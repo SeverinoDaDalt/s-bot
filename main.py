@@ -112,4 +112,6 @@ async def stop(ctx):
 
 
 if __name__ == "__main__":
-    bot.run('MTA1NzI1NjczNzY0OTk5NTg0Nw.GFp8JR.ApNfC2PaubB-s72FaHAHJPd1qa_rtFaCWzMwrU')
+    with open("token.txt", "r") as i_f:
+        token = i_f.read()
+        bot.run(token)
