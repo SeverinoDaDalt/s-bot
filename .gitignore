@@ -1,4 +1,8 @@
 *
-!main.py
-!new_version.py
 !.gitignore
+!main.py
+!bot_commands.py
+!utils.py
+!config.json
+!logs
+!music

@@ -1,0 +1,6 @@
+{
+  "command_prefix": "!",
+  "token": "INSERT TOKEN HERE",
+  "music_directory": "./music",
+  "default_repetitions": 1
+}
