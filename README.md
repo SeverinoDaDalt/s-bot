@@ -7,6 +7,7 @@ Follow the steps that proceed:
 - Create a python virtual environment and `pip install` the following packages:
   - `discord`
   - `yt_dlp`
+  - `pynacl`
 - Change the `config.json` parameter called `token` with the desired one (in previous versions this was stored in the `token.txt` file)
 
 ## How to run
